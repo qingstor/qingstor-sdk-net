@@ -1,4 +1,4 @@
-# QingStor SDK for .NET
+# QingStor SDK for .NET(c#)
 
 
 [![Build Status](https://travis-ci.org/yunify/qingstor-sdk-net.svg?branch=master)]()
@@ -6,7 +6,7 @@
 [![License](http://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/yunify/qingstor-sdk-net/blob/master/LICENSE)
 
 
-The official QingStor SDK for the .NET Framework. The version of the Target Framework must be >= 3.5.
+The official QingStor SDK for the .NET(c#) Framework. The version of the Target Framework must be >= 3.5.
 
 ## Getting Started
 
